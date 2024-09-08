@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://logypothi.github.io/sitemap.html.gz
+Sitemap: https://logypothi.github.io/app/sitemap.html.gz
+Sitemap: https://logypothi.github.io/assets/sitemap.html.gz
+Sitemap: https://logypothi.github.io/css/sitemap.html.gz
+Sitemap: https://logypothi.github.io/includes/sitemap.html.gz
+Sitemap: https://logypothi.github.io/item/sitemap.html.gz
+Sitemap: https://logypothi.github.io/src/sitemap.html.gz
